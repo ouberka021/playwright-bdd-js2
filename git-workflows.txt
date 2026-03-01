@@ -1,0 +1,14 @@
+git init: Initializes the git (only once)
+         source-control -> click "initialize repository" ====> this will create ".git" folder to track the project
+
+git add: adds the chnages to the staging area
+        source-control -> click the '+' in the changes section
+
+git commit: Saves the staging area chnages to the local repository
+        source-control -> Click "Commot" button after enetring commit message
+
+git fetch & pull: checks the chnages from remote repo & pulls them into local repo
+        source-control -> and click "..." of CHANGES -> fetch, then pull
+
+git checkout:    switches to a different branch
+        Click on the branch name bottom left corner of VS code, then select the branch
